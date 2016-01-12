@@ -8,3 +8,4 @@ Completed user stories:
 ] Required: User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 [] Required: Settings page to change the default tip percentage.(will finish soon)
 [] Optional: UI animations
+/Users/shirlymanor/Documents/newTipCalculator/tipCalculator.gif
